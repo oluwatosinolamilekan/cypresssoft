@@ -116,3 +116,10 @@ The Api Collection is located in the application, and it called `Cypress.postman
 ```
 
 
+# Pages
+![alt text](public/activities.png)
+
+![alt text](public/users.png)
+
+![alt text](public/user_activities.png)
+
